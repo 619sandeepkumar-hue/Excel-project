@@ -1,1 +1,1 @@
-# Excel-project
+This project uses Microsoft Excel to analyze a CIBIL-like credit dataset with 51,336 customer records. The analysis focuses on understanding credit scores, delinquency history, and loan approval decisions using data cleaning, filters, and pivot tables. It highlights how recent and frequent payment delays impact loan approvals more than credit score alone, and identifies some approved customers who still show higher risk. The project is intended to support basic credit risk assessment and lending decisions.
